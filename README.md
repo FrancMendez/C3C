@@ -1,4 +1,4 @@
-# C3C
+# C3C Francisco Mendez 091-14-9796
 Timing Analysis sobre la FSM  (Caja Fuerte)
 # Desarrollo
 
